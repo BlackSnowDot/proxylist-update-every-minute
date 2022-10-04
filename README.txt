@@ -1,5 +1,3 @@
-need only 1 star pls :(
-
 hayyy
 another repo for proxy
 all type [http, https, socks4, socks5]
