@@ -7,5 +7,3 @@ Downloaad with curl:
 curl -O https://github.com/BlackSnowDot/proxylist-update-every-minute/raw/main/proxy.txt
 Download With wget
 wget https://github.com/BlackSnowDot/proxylist-update-every-minute/raw/main/proxy.txt
-
-10 star: Source Code, its simple
