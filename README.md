@@ -11,5 +11,5 @@ pie title 35605 Proxies in list
 
 - mixed: 2.7s
 - http: 1.3s
-- https: 8.6s
+- https: 8.7s
 - socks: 6.6s
