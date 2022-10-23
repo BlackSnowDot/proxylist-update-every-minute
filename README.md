@@ -1,7 +1,7 @@
 
 ```mermaid
 pie title 40262 Proxies in list
-    "HTTP" : 24223
+    "HTTP" : 24222
     "HTTPS": 6155
     "SOCKS" : 14768
 ```
@@ -11,5 +11,5 @@ pie title 40262 Proxies in list
 
 - mixed: 3.1s
 - http: 1.6s
-- https: 8.7s
+- https: 8.6s
 - socks: 6.5s
