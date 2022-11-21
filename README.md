@@ -1,8 +1,8 @@
 
 ```mermaid
-pie title 57739 Proxies in list
-    "HTTP" : 26476
-    "HTTPS": 8483
+pie title 57752 Proxies in list
+    "HTTP" : 26493
+    "HTTPS": 8494
     "SOCKS" : 29921
 ```
 
