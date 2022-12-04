@@ -3,7 +3,7 @@
 pie title 52756 Proxies in list
     "HTTP" : 29012
     "HTTPS": 10974
-    "SOCKS" : 19393
+    "SOCKS" : 19394
 ```
 
 ### Some Info
