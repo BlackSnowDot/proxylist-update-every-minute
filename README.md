@@ -9,7 +9,7 @@ pie title 39195 Proxies in list
 ### Some Info
 #### Average Timeout
 
-- mixed: 4.0s
+- mixed: 4.1s
 - http: 2.3s
-- https: 8.2s
-- socks: 6.5s
+- https: 8.4s
+- socks: 6.8s
