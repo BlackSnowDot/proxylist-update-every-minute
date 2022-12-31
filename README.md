@@ -1,15 +1,15 @@
 
 ```mermaid
-pie title 22351 Proxies in list
-    "HTTP" : 16076
-    "HTTPS": 5493
+pie title 22356 Proxies in list
+    "HTTP" : 16102
+    "HTTPS": 5500
     "SOCKS" : 4040
 ```
 
 ### Some Info
 #### Average Timeout
 
-- mixed: 4.5s
+- mixed: 4.6s
 - http: 2.6s
-- https: 7.5s
+- https: 7.6s
 - socks: 6.3s
